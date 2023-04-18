@@ -1,0 +1,49 @@
+# theme.toml template for a Hugo theme
+# See https://github.com/gohugoio/hugoThemes#themetoml for an example
+
+name = "CryJackLee"
+license = "MIT"
+licenselink = "https://github.com/adityatelange/hugo-PaperMod/blob/master/LICENSE"
+description = "A CTF team of cybersecurity enthusiasts"
+homepage = "https://cryjacklee.xyz"
+tags = [
+  "ctf",
+  "team",
+  "thm",
+  "cryjacklee",
+  "blog",
+  "tryhackme",
+  "minimalist"
+]
+features = [
+  "responsive",
+  "single-column",
+  "blog",
+  "cover-image",
+  "table-of-contents",
+  "opengraph",
+  "highlight.js",
+  "favicon",
+  "archive",
+  "share-icons",
+  "cover",
+  "multilingual",
+  "social-icons",
+  "minified-assets",
+  "theme-toggle",
+  "menu-location-indicator",
+  "scroll-to-top",
+  "search"
+]
+min_version = "0.83.0"
+
+[author]
+  name = "Aditya Telange"
+  homepage = "https://github.com/adityatelange/"
+
+# If porting an existing theme
+[original]
+  name = "Paper"
+  author = "nanxiaobei"
+  homepage = "https://github.com/nanxiaobei"
+  repo = "https://github.com/nanxiaobei/hugo-paper/"
